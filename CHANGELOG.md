@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.4
+
+- Fixed card gateway webhook order processing issue
+- Fixed Laminas framework compatibility
+
 ## 2.0.3
 
 - Improved Revolut Pay mobile order processing

@@ -2,10 +2,10 @@
   "name": "revolut/module-payment",
   "description": "Revolut payment gateway for Magento2",
   "type": "magento2-module",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "license": "MIT",
   "dist": {
-    "url": "https://raw.githubusercontent.com/revolut-engineering/revolut-magento2-releases/master/revolutgatewayformagento2-2.0.3.zip",
+    "url": "https://raw.githubusercontent.com/revolut-engineering/revolut-magento2-releases/master/revolutgatewayformagento2-2.0.4.zip",
     "type": "zip"
   },
   "require": {
