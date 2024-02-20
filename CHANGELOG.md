@@ -1,0 +1,26 @@
+# Changelog
+
+## 2.0.3
+
+Improved Revolut Pay mobile order processing
+Added configuration for disabling Revolut Pay cashback message
+
+## 2.0.2
+
+Fixed Revolut Pay fast checkout mobile redirection
+
+## 2.0.1
+
+Fixed Revolut Pay fast checkout carrier issue
+
+## 2.0.0
+
+Added Revolut Pay redirection URLs
+Added Apple Pay - Google Pay
+Added Revolut Pay Fast Checkout
+Added Reward Banner
+Fixed Orders processing with webhooks
+
+## 1.0.0
+
+Initial version.
