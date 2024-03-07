@@ -4,10 +4,6 @@
   "type": "magento2-module",
   "version": "2.0.5",
   "license": "MIT",
-  "dist": {
-    "url": "https://raw.githubusercontent.com/revolut-engineering/revolut-magento2-releases/master/revolutgatewayformagento2-2.0.5.zip",
-    "type": "zip"
-  },
   "require": {
     "php": ">=7.2"
   },
