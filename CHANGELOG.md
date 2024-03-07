@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.5
+
+- Improved fast checkout address validation
+- Improved logging
+
 ## 2.0.4
 
 - Fixed card gateway webhook order processing issue
