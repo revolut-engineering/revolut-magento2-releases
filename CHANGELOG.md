@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.6
+
+- Fixed refund issue
+
 ## 2.0.5
 
 - Improved fast checkout address validation
