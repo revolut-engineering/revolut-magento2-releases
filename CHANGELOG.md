@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.7
+
+- Added Card holder name input configuration
+
 ## 2.0.6
 
 - Fixed refund issue
