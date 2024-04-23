@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.8
+
+- Fixed Payment Request Button duplicated webhook order processing issue
+
 ## 2.0.7
 
 - Added Card holder name input configuration
