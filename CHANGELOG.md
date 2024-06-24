@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.10
+
+- Updated CSP rules
+
 ## 2.0.9
 
 - Fixed an issue where in some cases total amount did not include shipping cost
