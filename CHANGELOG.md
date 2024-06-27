@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.11
+
+- Fixed checkout page payment processing error
+
 ## 2.0.10
 
 - Updated CSP rules
