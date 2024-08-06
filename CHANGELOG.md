@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.12
+
+- Improved loading speed of payment options
+- Fixed one page checkout payment total difference issue
+
 ## 2.0.11
 
 - Fixed checkout page payment processing error
