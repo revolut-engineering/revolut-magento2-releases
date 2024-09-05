@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.13
+
+- Added logic for collecting line items & proof of shipping
+
 ## 2.0.12
 
 - Improved loading speed of payment options
