@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.14
+
+- Fixed line item tax and discount amount format
+
 ## 2.0.13
 
 - Added logic for collecting line items & proof of shipping
