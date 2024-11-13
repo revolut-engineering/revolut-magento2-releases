@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.15
+
+- Added Revolut promotional banners
+
 ## 2.0.14
 
 - Fixed line item tax and discount amount format
