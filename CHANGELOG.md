@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.16
+
+- Fixed virtual product order processing error
+
 ## 2.0.15
 
 - Added Revolut promotional banners
