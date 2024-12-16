@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.17
+
+- Fixed invalid email format error during checkout process for logged in customers
+
 ## 2.0.16
 
 - Fixed virtual product order processing error
