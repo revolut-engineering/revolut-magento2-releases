@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.18
+
+- Improve line items and proof of shipping collection
+
 ## 2.0.17
 
 - Fixed invalid email format error during checkout process for logged in customers
