@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.19
+
+- Improved Apple Pay domain registration process
+- Fixed Apple Pay Fast Checkout Address validation issue
+- Improve Magento order status sync with revolut payment status
+
 ## 2.0.18
 
 - Improve line items and proof of shipping collection
