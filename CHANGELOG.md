@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.20
+
+- Fixed compatibility issues with Magento SOAP API module
+
 ## 2.0.19
 
 - Improved Apple Pay domain registration process
