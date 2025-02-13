@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.21
+
+- Fixed admin order list processing issue
+
 ## 2.0.20
 
 - Fixed compatibility issues with Magento SOAP API module
