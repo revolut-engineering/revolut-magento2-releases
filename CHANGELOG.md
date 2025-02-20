@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.22
+
+- Improved synchronization of order and payment statuses
+
 ## 2.0.21
 
 - Fixed admin order list processing issue
