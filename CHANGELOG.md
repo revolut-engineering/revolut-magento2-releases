@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.23
+
+- Cleared payment tittle labels
+
 ## 2.0.22
 
 - Improved synchronization of order and payment statuses
