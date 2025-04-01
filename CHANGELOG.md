@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.24
+
+- Extended card payments currency support to include ILS, MXN, BGN, TRY 
+
 ## 2.0.23
 
 - Cleared payment tittle labels
