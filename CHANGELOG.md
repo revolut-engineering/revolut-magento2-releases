@@ -1,8 +1,16 @@
 # Changelog
 
+## 2.0.26
+
+- Fixed card widget multi submission issue
+
+## 2.0.25
+
+- Fixed outdated public key issue
+
 ## 2.0.24
 
-- Extended card payments currency support to include ILS, MXN, BGN, TRY 
+- Extended card payments currency support to include ILS, MXN, BGN, TRY
 
 ## 2.0.23
 
