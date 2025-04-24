@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.27
+
+- Fixed invalid card widget state issue
+
 ## 2.0.26
 
 - Fixed card widget multi submission issue
