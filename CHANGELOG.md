@@ -1,4 +1,7 @@
 # Changelog
+## 2.0.28
+
+- Fixed a compatibility issue with FireCheckout extension
 
 ## 2.0.27
 
