@@ -1,4 +1,8 @@
 # Changelog
+## 2.0.29
+
+- Adjusted billing address validation to prevent submiting orders with out billing address
+
 ## 2.0.28
 
 - Fixed a compatibility issue with FireCheckout extension
