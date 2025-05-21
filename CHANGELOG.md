@@ -1,4 +1,9 @@
 # Changelog
+## 2.0.3
+
+- Added FireCheckout plugin compatibility
+- Fixed Payment Request button checkout address validation issue
+
 ## 2.0.29
 
 - Adjusted billing address validation to prevent submiting orders with out billing address
