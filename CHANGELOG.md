@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.1.1
+
+- Added "Pay by bank" as a new payment method for eligible merchants
+
 ## 2.1.0
 
 - Added FireCheckout plugin compatibility
