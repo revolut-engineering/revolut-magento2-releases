@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.1.2
+
+- Added Auth Connect Feature
+
 ## 2.1.1
 
 - Added "Pay by bank" as a new payment method for eligible merchants
