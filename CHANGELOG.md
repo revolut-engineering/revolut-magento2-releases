@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.1.3
+
+- Enable Pay by bank for UK registered merchants
+
 ## 2.1.2
 
 - Added Auth Connect Feature
@@ -15,7 +19,7 @@
 
 ## 2.0.29
 
-- Adjusted billing address validation to prevent submiting orders with out billing address
+- Adjusted billing address validation to prevent submitting orders with out billing address
 
 ## 2.0.28
 

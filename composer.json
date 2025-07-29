@@ -2,7 +2,7 @@
   "name": "revolut/module-payment",
   "description": "Revolut payment gateway for Magento2",
   "type": "magento2-module",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "license": "MIT",
   "autoload": {
     "files": [
