@@ -1,4 +1,9 @@
 # Changelog
+## 2.1.5
+- Adjust Revolut Pro account connection flow
+
+## 2.1.4
+- Addressed compatibility issues with FireCheckout Extension
 
 ## 2.1.3
 
