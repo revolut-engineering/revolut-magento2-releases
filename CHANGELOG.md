@@ -1,4 +1,7 @@
 # Changelog
+## 2.1.6
+- Disabled Pay by bank in sandbox
+
 ## 2.1.5
 - Adjust Revolut Pro account connection flow
 
