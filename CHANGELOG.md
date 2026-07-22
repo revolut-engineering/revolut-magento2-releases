@@ -1,36 +1,33 @@
 # Changelog
+## 2.1.9
+- Added post-placement Magento and Revolut order total verification with payment review warnings for mismatches
+
 ## 2.1.7
 - Added a fix to prevent zero amount payments
 
 ## 2.1.6
-- Disabled Pay by bank in sandbox
+- Added an option to hide the postcode field on the card form
 
 ## 2.1.5
-- Adjust Revolut Pro account connection flow
+- Skip capture request for completed orders
 
 ## 2.1.4
-- Addressed compatibility issues with FireCheckout Extension
+- Added banner for enrolling in the Revolut Merchant Affiliate Programme.
 
 ## 2.1.3
-
-- Enable Pay by bank for UK registered merchants
+- Adjust payment scheme card brands caching
 
 ## 2.1.2
-
-- Added Auth Connect Feature
+- Addressed compatibility issues with FireCheckout Extension
 
 ## 2.1.1
-
-- Added "Pay by bank" as a new payment method for eligible merchants
-
-## 2.1.0
 
 - Added FireCheckout plugin compatibility
 - Fixed Payment Request button checkout address validation issue
 
 ## 2.0.29
 
-- Adjusted billing address validation to prevent submitting orders with out billing address
+- Adjusted billing address validation to prevent submiting orders with out billing address
 
 ## 2.0.28
 

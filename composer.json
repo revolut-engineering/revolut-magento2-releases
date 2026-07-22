@@ -2,19 +2,18 @@
   "name": "revolut/module-payment",
   "description": "Revolut payment gateway for Magento2",
   "type": "magento2-module",
-  "version": "2.1.7",
+  "version": "2.1.9",
   "license": "MIT",
+  "require": {
+    "php": ">=7.2"
+  },
   "autoload": {
     "files": [
       "registration.php"
     ],
     "psr-4": {
-      "Revolut\\Magento\\": "src/core",
       "Revolut\\Payment\\": ""
-    },
-    "exclude-from-classmap": [
-      "tests/"
-    ]
+    }
   },
   "config": {
     "allow-plugins": {
@@ -22,28 +21,9 @@
     }
   },
   "repositories": {
-    "local": {
-      "type": "path",
-      "url": "./../../../Revolut/Plugin",
-      "options": {
-        "symlink": false
-      }
-    },
     "repo.magento.com": {
       "type": "composer",
       "url": "https://repo.magento.com/"
     }
-  },
-  "scripts": {
-    "install-core-package": "rm -rf ./lib && cp -r ./../../../Revolut/Plugin ./lib",
-    "post-install-cmd": [
-      "composer install-core-package"
-    ],
-    "post-update-cmd": [
-      "composer install-core-package"
-    ],
-    "post-autoload-dump": [
-      "composer install-core-package"
-    ]
   }
 }
