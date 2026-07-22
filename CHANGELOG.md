@@ -1,4 +1,7 @@
 # Changelog
+## 2.1.7
+- Added a fix to prevent zero amount payments
+
 ## 2.1.6
 - Disabled Pay by bank in sandbox
 
