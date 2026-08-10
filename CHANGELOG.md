@@ -1,4 +1,7 @@
 # Changelog
+## 2.1.10
+- Restored the option to hide the postcode field on the card form in the Magento Marketplace package
+
 ## 2.1.9
 - Added post-placement Magento and Revolut order total verification with payment review warnings for mismatches
 
